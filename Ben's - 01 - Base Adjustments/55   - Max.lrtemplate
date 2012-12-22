@@ -1,0 +1,19 @@
+s = {
+	id = "83664324-D512-45EC-A68F-B6330DEC9E66",
+	internalName = "37   - Max",
+	title = "55   - Max",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 100,
+			ProcessVersion = "6.7",
+		},
+		uuid = "74099BEA-EBCD-453E-AC17-FFFC231ADDBD",
+	},
+	version = 0,
+}

@@ -1,0 +1,48 @@
+s = {
+	id = "B91A0E3C-2C6B-4165-BD3B-7AA399248EA0",
+	internalName = "33 - Desaturated",
+	title = "43   - Desaturated",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			Saturation = -40,
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				224,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+			Vibrance = 0,
+		},
+		uuid = "6DE2B255-4BB4-40B4-96CD-85492C81B0E0",
+	},
+	version = 0,
+}

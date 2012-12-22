@@ -1,0 +1,14 @@
+s = {
+	id = "CB9587CE-DE88-4AB4-A69B-4ECA8147C2C9",
+	internalName = "07   - Lighten        + 0.5 Stop",
+	title = "07   - Lighten        + 0.5 Stop",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 0.5,
+			ProcessVersion = "6.7",
+		},
+		uuid = "F368EE48-C483-4F46-BB68-C828049C1483",
+	},
+	version = 0,
+}

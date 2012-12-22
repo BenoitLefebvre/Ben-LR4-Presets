@@ -1,0 +1,20 @@
+s = {
+	id = "5A0425FE-869B-4145-88DC-BD3ABB99D677",
+	internalName = "16   - Medium Squared",
+	title = "16   - Medium Squared",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -66,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 39,
+			PostCropVignetteRoundness = -70,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6AA7A79E-52AB-4146-81E8-8181C46878F2",
+	},
+	version = 0,
+}

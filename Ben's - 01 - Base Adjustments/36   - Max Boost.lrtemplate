@@ -1,0 +1,23 @@
+s = {
+	id = "022ADA06-E417-48B5-A5FF-D96E4D1A4C81",
+	internalName = "24   - Max Boost",
+	title = "36   - Max Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 100,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 150,
+		},
+		uuid = "261601AC-190D-4D30-82DE-7BFB3B34F463",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "CA03513E-5EC6-423A-9AEC-792A2661D04E",
+	internalName = "23   - Medium Grain",
+	title = "23   - Medium Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 50,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "86FE171F-3641-4CB2-91E3-5FDFADF10F68",
+	},
+	version = 0,
+}

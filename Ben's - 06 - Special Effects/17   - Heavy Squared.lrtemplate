@@ -1,0 +1,20 @@
+s = {
+	id = "80AE11A0-DE57-42EB-BD0A-39E39CC62EA5",
+	internalName = "17   - Heavy Squared",
+	title = "17   - Heavy Squared",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 39,
+			PostCropVignetteRoundness = -70,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "B892C8E1-EE49-4201-B4DF-913AABDC1FF6",
+	},
+	version = 0,
+}

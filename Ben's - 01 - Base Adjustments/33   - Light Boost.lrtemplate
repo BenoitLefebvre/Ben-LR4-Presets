@@ -1,0 +1,23 @@
+s = {
+	id = "549DD57D-C2A1-4E54-B415-174325BA3FDE",
+	internalName = "21   - Light Boost",
+	title = "33   - Light Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 72,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 50,
+		},
+		uuid = "7949BE3A-CF0F-4441-9F04-F0E18076C178",
+	},
+	version = 0,
+}

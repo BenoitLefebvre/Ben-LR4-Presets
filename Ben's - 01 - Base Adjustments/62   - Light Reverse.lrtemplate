@@ -1,0 +1,16 @@
+s = {
+	id = "E5BB0434-98DA-45AB-A7F8-8C7D4B0FCF01",
+	internalName = "40   - Light Reverse",
+	title = "62   - Light Reverse",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			ProcessVersion = "6.7",
+			VignetteAmount = 30,
+			VignetteMidpoint = 50,
+		},
+		uuid = "7DB96390-0A3F-40DA-9DA6-245E2EB85704",
+	},
+	version = 0,
+}

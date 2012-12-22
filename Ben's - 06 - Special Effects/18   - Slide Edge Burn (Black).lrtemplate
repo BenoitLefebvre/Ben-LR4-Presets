@@ -1,0 +1,20 @@
+s = {
+	id = "521A6EE3-3AA9-41B7-87EA-EC6C63D0BADD",
+	internalName = "18   - Slide Edge Burn (Black)",
+	title = "18   - Slide Edge Burn (Black)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 31,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = -100,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "38440C9A-84C8-46DA-BEEE-AE74A078269C",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "7A77271E-4513-4A7A-AC61-D53E7CA0322F",
+	internalName = "15   - Medium Boost",
+	title = "23   - Medium Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 50,
+			Highlights2012 = -50,
+			ProcessVersion = "6.7",
+			Shadows2012 = 50,
+			Whites2012 = -50,
+		},
+		uuid = "089CED60-E223-4D89-8D45-9D4DE3E599CC",
+	},
+	version = 0,
+}

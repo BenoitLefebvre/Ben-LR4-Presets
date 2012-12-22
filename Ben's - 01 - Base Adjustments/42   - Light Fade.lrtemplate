@@ -1,0 +1,14 @@
+s = {
+	id = "F2565DE5-5465-448C-8147-34D027E87152",
+	internalName = "27   - Light Fade",
+	title = "42   - Light Fade",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "CD0E10BF-EA1A-4C08-B217-70AB6E877E4E",
+	},
+	version = 0,
+}

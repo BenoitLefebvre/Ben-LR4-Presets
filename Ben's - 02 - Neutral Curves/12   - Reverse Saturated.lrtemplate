@@ -1,0 +1,47 @@
+s = {
+	id = "6E291B52-01D4-4FE2-93A7-4EE3E1805ACF",
+	internalName = "12   - Reverse Saturated",
+	title = "12   - Reverse Saturated",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			Saturation = 0,
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				0,
+				34,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "E0C9331D-55E2-446D-BE7C-0BE022DF4660",
+	},
+	version = 0,
+}

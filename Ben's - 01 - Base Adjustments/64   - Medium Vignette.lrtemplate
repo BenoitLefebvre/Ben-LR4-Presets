@@ -1,0 +1,16 @@
+s = {
+	id = "406C64C4-9394-4A59-B7BC-1EEA07B81412",
+	internalName = "42   - Medium Vignette",
+	title = "64   - Medium Vignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			ProcessVersion = "6.7",
+			VignetteAmount = -66,
+			VignetteMidpoint = 50,
+		},
+		uuid = "9FCCD387-D790-48C3-9643-1FE58D8C1BB8",
+	},
+	version = 0,
+}

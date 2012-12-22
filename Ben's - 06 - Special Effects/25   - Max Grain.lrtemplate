@@ -1,0 +1,17 @@
+s = {
+	id = "3EA6F4AE-C451-42EE-83E9-810171782E2D",
+	internalName = "25   - Max Grain",
+	title = "25   - Max Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 100,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "018C798E-FC07-4E0C-A55E-022EA7D035A1",
+	},
+	version = 0,
+}

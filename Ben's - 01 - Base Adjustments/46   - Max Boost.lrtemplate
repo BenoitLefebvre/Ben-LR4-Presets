@@ -1,0 +1,14 @@
+s = {
+	id = "E292D6A4-697A-4D7E-927F-CAD8405C6ACF",
+	internalName = "31   - Max Boost",
+	title = "46   - Max Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 100,
+			ProcessVersion = "6.7",
+		},
+		uuid = "02F53F42-FB70-4E7B-A8A7-CA2E1F57A909",
+	},
+	version = 0,
+}

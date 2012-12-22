@@ -1,0 +1,13 @@
+s = {
+	id = "B7FDF601-8F49-41D8-BB72-686457A8BD9A",
+	internalName = "10 == ARTISTIC VIGNETTING ==",
+	title = "10 == ARTISTIC VIGNETTING ==",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "B2FC01C1-7477-4114-B8E6-34EA676D6E54",
+	},
+	version = 0,
+}

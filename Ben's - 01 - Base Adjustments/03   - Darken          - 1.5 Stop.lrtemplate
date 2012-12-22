@@ -1,0 +1,14 @@
+s = {
+	id = "2B583059-16B1-4B45-B399-E13E61CB25DD",
+	internalName = "03   - Darken          - 1.5 Stop",
+	title = "03   - Darken          - 1.5 Stop",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = -1.5,
+			ProcessVersion = "6.7",
+		},
+		uuid = "44DC7D57-7534-4C5D-98FC-0067595B2053",
+	},
+	version = 0,
+}

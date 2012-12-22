@@ -1,0 +1,20 @@
+s = {
+	id = "EBF279C0-460A-4ED1-BA26-AD7C1FA6AE79",
+	internalName = "13   - Medium Radial",
+	title = "13   - Medium Radial",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -66,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0A34F6B5-A11F-44DA-8349-F5A839B71DE5",
+	},
+	version = 0,
+}

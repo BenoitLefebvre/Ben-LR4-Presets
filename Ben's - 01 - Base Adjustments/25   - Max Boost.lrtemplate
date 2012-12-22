@@ -1,0 +1,17 @@
+s = {
+	id = "1844D932-6D05-432C-8C77-1D808C41462D",
+	internalName = "17   - Max Boost",
+	title = "25   - Max Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 100,
+			Highlights2012 = -100,
+			ProcessVersion = "6.7",
+			Shadows2012 = 100,
+			Whites2012 = -100,
+		},
+		uuid = "687A913E-8AE3-4CB8-BC09-BA1E7EA339CA",
+	},
+	version = 0,
+}

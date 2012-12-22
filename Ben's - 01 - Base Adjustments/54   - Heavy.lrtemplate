@@ -1,0 +1,19 @@
+s = {
+	id = "CB25119E-5C10-4C98-9FF4-AF98443DF7C4",
+	internalName = "36   - Heavy",
+	title = "54   - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 75,
+			ProcessVersion = "6.7",
+		},
+		uuid = "10F4C511-E12E-43E1-9839-D77ABD12A693",
+	},
+	version = 0,
+}

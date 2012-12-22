@@ -1,0 +1,13 @@
+s = {
+	id = "D4D47819-6853-411E-8A4F-3FF6A6E90E19",
+	internalName = "32 == NOISE REDUCTION ==",
+	title = "50 == NOISE REDUCTION ==",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "FFB6CBD2-AE83-43CF-B3FE-ADEAE5852C60",
+	},
+	version = 0,
+}

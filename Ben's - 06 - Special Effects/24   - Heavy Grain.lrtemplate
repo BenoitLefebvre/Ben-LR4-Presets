@@ -1,0 +1,17 @@
+s = {
+	id = "BAC73434-F824-439A-B4B4-2BCCC5AA9B3D",
+	internalName = "24   - Heavy Grain",
+	title = "24   - Heavy Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 75,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "7D16DB98-213B-47CD-8EC2-CB6AB2844AEE",
+	},
+	version = 0,
+}

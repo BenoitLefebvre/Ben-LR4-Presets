@@ -1,0 +1,23 @@
+s = {
+	id = "9666172F-4FC8-412C-9C8A-3D6C468DC0BC",
+	internalName = "22   - Medium Boost",
+	title = "34   - Medium Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 88,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 75,
+		},
+		uuid = "F5338121-69DA-4427-A36A-7A3606B3F860",
+	},
+	version = 0,
+}

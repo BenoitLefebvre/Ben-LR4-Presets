@@ -1,0 +1,17 @@
+s = {
+	id = "1165ED59-C2C2-4ADA-88DB-23204D54CA39",
+	internalName = "13   - Reset (Standard)",
+	title = "21   - Reset (Default)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 0,
+			Highlights2012 = 0,
+			ProcessVersion = "6.7",
+			Shadows2012 = 0,
+			Whites2012 = 0,
+		},
+		uuid = "AB4CBCFF-841A-42E6-9E29-A82E7F7CEDE7",
+	},
+	version = 0,
+}

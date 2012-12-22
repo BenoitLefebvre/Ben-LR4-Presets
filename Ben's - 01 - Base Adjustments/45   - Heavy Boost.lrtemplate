@@ -1,0 +1,14 @@
+s = {
+	id = "D37AE4FB-DEF9-4BE6-8E6A-25FF23DE88D3",
+	internalName = "30   - Heavy Boost",
+	title = "45   - Heavy Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 75,
+			ProcessVersion = "6.7",
+		},
+		uuid = "C7865C61-65FA-4340-8466-6FA853452994",
+	},
+	version = 0,
+}

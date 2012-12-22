@@ -1,0 +1,17 @@
+s = {
+	id = "CB475461-BD5D-4217-AEA8-E909F861541E",
+	internalName = "21   - Reset Grain (Default)",
+	title = "21   - Reset Grain (Default)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "D2C0FB49-13D5-4CC1-A19D-500F7AC513B2",
+	},
+	version = 0,
+}

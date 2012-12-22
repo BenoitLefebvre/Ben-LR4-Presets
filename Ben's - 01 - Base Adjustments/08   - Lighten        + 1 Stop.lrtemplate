@@ -1,0 +1,14 @@
+s = {
+	id = "CA63AD91-8DF5-469F-9653-1F2926534787",
+	internalName = "08   - Lighten        + 1 Stop",
+	title = "08   - Lighten        + 1 Stop",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "D97C1C32-6B99-48BC-B2F2-1E1CD1337AF5",
+	},
+	version = 0,
+}

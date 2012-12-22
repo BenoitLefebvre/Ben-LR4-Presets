@@ -1,0 +1,17 @@
+s = {
+	id = "E5CA6C63-2BEF-413A-9099-03F4228C18BC",
+	internalName = "22   - Light Grain",
+	title = "22   - Light Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 25,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "BEB2919D-46C0-421F-9A81-662E622F2E05",
+	},
+	version = 0,
+}

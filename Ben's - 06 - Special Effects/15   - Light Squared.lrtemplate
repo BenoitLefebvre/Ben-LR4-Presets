@@ -1,0 +1,20 @@
+s = {
+	id = "D0DA4D36-C54A-4842-89F8-6D75EB1D5AE9",
+	internalName = "15   - Light Squared",
+	title = "15   - Light Squared",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -33,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 39,
+			PostCropVignetteRoundness = -70,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "612ABEFE-27CA-4E6A-AA07-B194EB6DD243",
+	},
+	version = 0,
+}

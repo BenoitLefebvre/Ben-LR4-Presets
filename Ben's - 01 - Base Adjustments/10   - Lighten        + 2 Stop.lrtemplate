@@ -1,0 +1,14 @@
+s = {
+	id = "CE74826E-38C4-4B13-B722-69E171880993",
+	internalName = "10   - Lighten        + 2 Stop",
+	title = "10   - Lighten        + 2 Stop",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "EA671229-FFD6-45D7-BAED-3E103BECC773",
+	},
+	version = 0,
+}

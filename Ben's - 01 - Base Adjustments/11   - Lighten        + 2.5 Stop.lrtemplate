@@ -1,0 +1,14 @@
+s = {
+	id = "2B12646B-3648-4D47-B699-2F420A4B0619",
+	internalName = "11   - Lighten        + 2.5 Stop",
+	title = "11   - Lighten        + 2.5 Stop",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 2.5,
+			ProcessVersion = "6.7",
+		},
+		uuid = "419903D8-C96E-4CFD-84AA-1CF07C096BEA",
+	},
+	version = 0,
+}

@@ -1,0 +1,23 @@
+s = {
+	id = "4C378D12-7439-428B-BD47-AED815A5158C",
+	internalName = "23   - Heavy Boost",
+	title = "35   - Heavy Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 100,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 100,
+		},
+		uuid = "DB3E66FE-5687-4097-8B18-1CDA10ACA615",
+	},
+	version = 0,
+}

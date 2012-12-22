@@ -1,0 +1,20 @@
+s = {
+	id = "33B59C12-B473-476C-8C31-E1C2F0FBE949",
+	internalName = "12   - Light Radial",
+	title = "12   - Light Radial",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -33,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "F73B0560-BFD1-4C8E-9455-F2D62A9992E2",
+	},
+	version = 0,
+}

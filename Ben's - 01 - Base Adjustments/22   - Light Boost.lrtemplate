@@ -1,0 +1,17 @@
+s = {
+	id = "F9E90483-34F9-4479-BBBA-4952563B61EE",
+	internalName = "14   - Light Boost",
+	title = "22   - Light Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 25,
+			Highlights2012 = -25,
+			ProcessVersion = "6.7",
+			Shadows2012 = 25,
+			Whites2012 = -25,
+		},
+		uuid = "521C2D41-2443-49C6-A36F-65525B73978D",
+	},
+	version = 0,
+}

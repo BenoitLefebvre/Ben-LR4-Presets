@@ -1,0 +1,14 @@
+s = {
+	id = "2E0EFFE2-DABF-4E3F-B11A-6C021E5774BC",
+	internalName = "06   - Neutral         + 0 Stop",
+	title = "06   - Neutral         + 0 Stop",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 0,
+			ProcessVersion = "6.7",
+		},
+		uuid = "C975221D-6287-4100-AC41-432ABABA350F",
+	},
+	version = 0,
+}

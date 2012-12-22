@@ -1,0 +1,13 @@
+s = {
+	id = "8003FF0D-FF1E-4833-8EB9-A23E8F2C844D",
+	internalName = "12 == DYNAMIC RANGE ==",
+	title = "20 == DYNAMIC RANGE ==",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "104149CE-70E9-4E69-908A-8EA908D48454",
+	},
+	version = 0,
+}

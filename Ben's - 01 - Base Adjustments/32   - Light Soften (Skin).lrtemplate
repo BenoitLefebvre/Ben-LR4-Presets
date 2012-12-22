@@ -1,0 +1,23 @@
+s = {
+	id = "B01D49EF-CA04-4FB0-B459-33BDD148B789",
+	internalName = "20   - Light Soften (Skin)",
+	title = "32   - Light Soften (Skin)",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 0,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 24,
+			LuminanceNoiseReductionDetail = 0,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 0,
+		},
+		uuid = "68118A4B-9E9F-4A6A-8D37-62DBAA7F817E",
+	},
+	version = 0,
+}

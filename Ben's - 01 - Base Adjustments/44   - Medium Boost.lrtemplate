@@ -1,0 +1,14 @@
+s = {
+	id = "77AC7C8E-00EF-4D78-98CF-38B57DF2BE62",
+	internalName = "29   - Medium Boost",
+	title = "44   - Medium Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 50,
+			ProcessVersion = "6.7",
+		},
+		uuid = "80B3A53D-CBD7-402C-BC25-7E94B54FEB9B",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "1EF9EA42-2FE3-42D5-854B-B82BF87FE585",
+	internalName = "34   - Light",
+	title = "52   - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "B166B4C9-C7BB-4497-8D11-DF9F67AE7C02",
+	},
+	version = 0,
+}

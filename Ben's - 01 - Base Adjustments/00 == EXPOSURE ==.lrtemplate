@@ -1,0 +1,13 @@
+s = {
+	id = "7A9A1A72-75E8-419D-8758-ABD307AE6ADE",
+	internalName = "00 == EXPOSURE ==",
+	title = "00 == EXPOSURE ==",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "114B245B-78AE-46EB-B1F7-220873F5E14D",
+	},
+	version = 0,
+}

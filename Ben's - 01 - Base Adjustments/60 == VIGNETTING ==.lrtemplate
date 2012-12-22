@@ -1,0 +1,13 @@
+s = {
+	id = "7B8E5141-99FF-4B3D-9384-E2F8F5F726CA",
+	internalName = "38 == VIGNETTING ==",
+	title = "60 == VIGNETTING ==",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "C8BB2389-3CEA-40E5-A030-469CBCC5E450",
+	},
+	version = 0,
+}

@@ -1,0 +1,23 @@
+s = {
+	id = "9E9AB973-5E29-4B40-8597-24203EB5A73D",
+	internalName = "00 - Reset Special Effects (Default)",
+	title = "00 - Reset Special Effects (Default)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "BF9328AC-2CDD-4587-B991-527B74C67DDC",
+	},
+	version = 0,
+}

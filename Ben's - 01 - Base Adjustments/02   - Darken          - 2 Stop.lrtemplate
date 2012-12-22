@@ -1,0 +1,14 @@
+s = {
+	id = "80691070-7412-4870-9BA0-369E4193A1A3",
+	internalName = "02   - Darken          - 2 Stop",
+	title = "02   - Darken          - 2 Stop",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = -2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "598ED301-762E-45E9-BBFB-ABC26FFC2C2E",
+	},
+	version = 0,
+}

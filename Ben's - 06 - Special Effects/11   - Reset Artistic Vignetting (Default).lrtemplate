@@ -1,0 +1,20 @@
+s = {
+	id = "EE08D494-7D21-436E-9E71-7DEEA9F931F9",
+	internalName = "11   - Reset Artistic Vignetting (Default)",
+	title = "11   - Reset Artistic Vignetting (Default)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0166C05C-1671-4C81-9F69-2AF680577E3B",
+	},
+	version = 0,
+}

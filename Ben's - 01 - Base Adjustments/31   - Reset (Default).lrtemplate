@@ -1,0 +1,23 @@
+s = {
+	id = "4541906D-75E8-4E0B-BF73-E7BD836FFB1E",
+	internalName = "19   - Reset (Standard)",
+	title = "31   - Reset (Default)",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 25,
+		},
+		uuid = "3AC35F51-4A7E-4DB1-94F3-21AF904AD5F3",
+	},
+	version = 0,
+}

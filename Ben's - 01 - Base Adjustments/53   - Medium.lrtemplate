@@ -1,0 +1,19 @@
+s = {
+	id = "1DCAC80C-29F8-47E7-8D82-956F47AE9285",
+	internalName = "35   - Medium",
+	title = "53   - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 50,
+			ProcessVersion = "6.7",
+		},
+		uuid = "DC9C7AAA-1AE1-4A34-B3CB-47804ED360D3",
+	},
+	version = 0,
+}

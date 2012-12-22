@@ -1,0 +1,19 @@
+s = {
+	id = "5AB427B6-8879-412C-8DC9-127DE9CA959D",
+	internalName = "33   - Reset (Standard)",
+	title = "51   - Reset (Default)",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0FB46B3C-A885-4171-B5B1-D410F12911C9",
+	},
+	version = 0,
+}

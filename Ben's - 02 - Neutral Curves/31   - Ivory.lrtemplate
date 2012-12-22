@@ -1,0 +1,48 @@
+s = {
+	id = "4185D58B-4DCC-42F3-B5CB-1C2FD37A286C",
+	internalName = "21   - Ivory",
+	title = "31   - Ivory",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			Saturation = 0,
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				16,
+				0,
+				238,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+			Vibrance = 0,
+		},
+		uuid = "119AF9BE-9105-4116-A5E6-80C3931A148B",
+	},
+	version = 0,
+}

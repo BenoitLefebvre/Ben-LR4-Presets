@@ -1,0 +1,13 @@
+s = {
+	id = "9DC63A07-0476-4EC0-84F7-AF3A21F8B149",
+	internalName = "20 == GRAIN ==",
+	title = "20 == GRAIN ==",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "E658614A-63CB-4363-8525-B6F761958C2C",
+	},
+	version = 0,
+}

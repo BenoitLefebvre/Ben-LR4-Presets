@@ -1,0 +1,13 @@
+s = {
+	id = "E9ABADCB-C11C-4DD1-A1BE-43D9043B8FAA",
+	internalName = "00 == BRIGHT WASHES",
+	title = "10 == BRIGHT WASHES ==",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "0F3DA519-1C0F-4A27-A5DF-711FE39D697A",
+	},
+	version = 0,
+}

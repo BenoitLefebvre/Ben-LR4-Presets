@@ -1,0 +1,45 @@
+s = {
+	id = "64B7C750-71F0-42B8-BC50-0AC27A982B32",
+	internalName = "008   - Old Look",
+	title = "008   - Old Look",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				64,
+				255,
+				168,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				21,
+				255,
+				214,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "E08E4FCB-AF19-4813-89D9-573A383E5C57",
+	},
+	version = 0,
+}

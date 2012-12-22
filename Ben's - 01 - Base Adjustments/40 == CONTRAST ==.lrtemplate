@@ -1,0 +1,13 @@
+s = {
+	id = "FCAA01F5-ED1E-4567-B9EE-FC5ABD2AFEA3",
+	internalName = "25 == CONTRAST ==",
+	title = "40 == CONTRAST ==",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "936655B6-D174-4B46-B021-8606EE8502EA",
+	},
+	version = 0,
+}

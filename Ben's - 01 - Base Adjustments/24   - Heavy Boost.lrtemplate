@@ -1,0 +1,17 @@
+s = {
+	id = "CBA1C108-EAB0-419F-845B-F44E8C0CD85A",
+	internalName = "16   - Heavy Boost",
+	title = "24   - Heavy Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 75,
+			Highlights2012 = -75,
+			ProcessVersion = "6.7",
+			Shadows2012 = 75,
+			Whites2012 = -75,
+		},
+		uuid = "895FE05D-A660-4089-9299-631E0BB85787",
+	},
+	version = 0,
+}

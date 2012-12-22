@@ -1,0 +1,13 @@
+s = {
+	id = "BB329094-96F8-40AE-B78A-0AFEC7C880AD",
+	internalName = "18 == DETAIL ==",
+	title = "30 == DETAIL ==",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+		},
+		uuid = "4A1B4406-4937-487A-8F53-C0835EB01CF4",
+	},
+	version = 0,
+}

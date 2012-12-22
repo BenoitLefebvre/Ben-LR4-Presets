@@ -1,0 +1,14 @@
+s = {
+	id = "F87FC35C-A54B-455C-B6EC-A8F36B396EC4",
+	internalName = "04   - Darken          - 1 Stop",
+	title = "04   - Darken          - 1 Stop",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = -1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "05DB4181-A649-4C31-8860-01EAC97A6529",
+	},
+	version = 0,
+}

@@ -1,0 +1,16 @@
+s = {
+	id = "F7166545-0B74-4C62-AD89-132267CD8541",
+	internalName = "39   - Reset (Standard)",
+	title = "61   - Reset (Default)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			ProcessVersion = "6.7",
+			VignetteAmount = 0,
+			VignetteMidpoint = 50,
+		},
+		uuid = "BA2AC091-61E0-47CC-9532-843C9201F822",
+	},
+	version = 0,
+}

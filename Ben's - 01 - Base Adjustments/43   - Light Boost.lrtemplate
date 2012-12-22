@@ -1,0 +1,14 @@
+s = {
+	id = "63585DCE-702E-4CE6-BB92-98B55E2E22AA",
+	internalName = "28   - Light Boost",
+	title = "43   - Light Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "4581C3E2-41EA-465C-A18F-4EEF527DAAD7",
+	},
+	version = 0,
+}

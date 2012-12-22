@@ -1,0 +1,14 @@
+s = {
+	id = "E3E47ED1-BACE-4DE6-ADE1-85651CA8116A",
+	internalName = "26   - Reset",
+	title = "41   - Reset (Default)",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 0,
+			ProcessVersion = "6.7",
+		},
+		uuid = "DA776B50-C0CF-4DA5-B9BA-112D900A4629",
+	},
+	version = 0,
+}

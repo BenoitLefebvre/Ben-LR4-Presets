@@ -1,0 +1,20 @@
+s = {
+	id = "615547D1-6A3B-427E-9975-DC9DF007DC8A",
+	internalName = "14   - Heavy Radial",
+	title = "14   - Heavy Radial",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "22F4A637-C247-4826-B291-4A36B373B2CD",
+	},
+	version = 0,
+}
