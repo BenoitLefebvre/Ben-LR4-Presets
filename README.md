@@ -1,4 +1,4 @@
-Ben-LR4-Presets
-===============
+Ben's Presets for Lightroom 4
+-----------------------------
 
-Ben's Lightroom 4 Presets
+Looking at how over-priced SLR Lounge Presets System is, I developped a similar set of presets for free for some friend photographers.
